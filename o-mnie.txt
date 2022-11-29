@@ -1,1 +1,2 @@
 Krzysztof Chorzempa
+jak naprawdę działa git
