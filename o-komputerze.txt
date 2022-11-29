@@ -1,1 +1,54 @@
 Linux krzysiek 5.19.0-23-generic #24-Ubuntu SMP PREEMPT_DYNAMIC Fri Oct 14 15:39:57 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        7929668 kB
+MemFree:         1381336 kB
+MemAvailable:    3994480 kB
+Buffers:          154500 kB
+Cached:          3361092 kB
+SwapCached:            0 kB
+Active:          1348248 kB
+Inactive:        4024756 kB
+Active(anon):       3956 kB
+Inactive(anon):  2586100 kB
+Active(file):    1344292 kB
+Inactive(file):  1438656 kB
+Unevictable:      604272 kB
+Mlocked:              16 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:               348 kB
+Writeback:             0 kB
+AnonPages:       2461704 kB
+Mapped:           699416 kB
+Shmem:            740524 kB
+KReclaimable:     114020 kB
+Slab:             317964 kB
+SReclaimable:     114020 kB
+SUnreclaim:       203944 kB
+KernelStack:       13820 kB
+PageTables:        49916 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     6061980 kB
+Committed_AS:   10661672 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      113220 kB
+VmallocChunk:          0 kB
+Percpu:             4976 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      372096 kB
+DirectMap2M:     6758400 kB
+DirectMap1G:     2097152 kB
