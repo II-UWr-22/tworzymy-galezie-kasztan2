@@ -1,2 +1,3 @@
 Krzysztof Chorzempa
 jak naprawdę działa git
+nie czytam
